@@ -11,6 +11,7 @@ import Track from '../components/Track'
 import { eligibleTitles, trackIds, milestones, milestoneToPoints } from '../constants'
 import type { Milestone, MilestoneMap, TrackId } from '../constants'
 import React from 'react'
+import Tabletop from 'tabletop'
 
 type SnowflakeAppState = {
   milestoneByTrack: MilestoneMap,
@@ -119,6 +120,14 @@ class SnowflakeApp extends React.Component<Props, SnowflakeAppState> {
   }
 
   componentDidMount() {
+    Tabletop.init({
+      key: 'https://docs.google.com/spreadsheets/d/1GmlyiV_6XxgU6qttOcwza211tcP9J820nxo_G6UNwEI/edit?usp=sharing',
+      callback: googleData => {
+        console.log('google sheet data --->', googleData)
+      },
+      simpleSheet: true
+    })
+
     const state = hashToState(window.location.hash)
     if (state) {
       this.setState(state)

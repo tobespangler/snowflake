@@ -139,9 +139,8 @@ class SnowflakeApp extends React.Component<Props, SnowflakeAppState> {
             margin: 0 auto;
           }
           .name-input {  
-            position: absolute;
-            bottom: 0      
-            margin-top: 100px;
+            position: absolute;                  
+            margin-top: 50px;
             border: none;
             display: block;
             border-bottom: 2px solid #fff;
@@ -161,12 +160,12 @@ class SnowflakeApp extends React.Component<Props, SnowflakeAppState> {
           }
         `}</style>
 
-        <div style={{margin: '19px auto 0', width: 400}}>
-            NOT an official Hootsuite Tool.
+        <div style={{margin: '19px 0 0', width: 400}}>
+            Not an official Hootsuite Tool.
         </div>
 
-        <div style={{margin: '5px auto 0', width: 400}}>
-          NOT for use as performance or promotion criteria.
+        <div style={{margin: '5px 0 0', width: 400}}>
+          Not for use as performance or promotion criteria.
         </div>
 
         <div style={{display: 'flex'}}>

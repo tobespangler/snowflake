@@ -1,37 +1,34 @@
-# Snowflake
+# Snowflake-lite
 
-Snowflake is Medium's tool for planning and supporting our engineers' career development. You can read more
-about how we use this tool in our [growth framework documentation](https://medium.com/s/engineering-growth-framework).
-Our growth tool is hosted [publicly](https://snowflake.medium.com).
+This tool and any associated data is for generating ideas in support of an individuals professional growth only. It is NOT an official Hootsuite tool or part of Hootsuites compensation or promotion process. It CANNOT be used as performance or promotion criteria.
 
-![The Lannisters send their regards](https://i.imgur.com/e9DYLBr.png)
+This is a modified version of Snowflake which was a tool developed by Medium for planning and supporting engineers' career development with a strong focus an individuals growth. You can read more
+about how the original tool was used in Medium's [growth framework documentation](https://medium.com/s/engineering-growth-framework).
 
-## Contributions
 
-You are free to use, change and build on this work to make it useful for your organisation. We will happily consider
-unencumbered code contributions to improve functionality, but as this is the actual tool we use within Medium, acceptance is likely to be intentional, and deliberate. Meaning, slow. As such, you may prefer to fork the codebase for your own needs. We will not accept any contributions that modify the text of the application (but, thank you in advance for pointing out any typos).
+
+![The Lannisters send their regards](resources/screenshot.png)
+
 
 ## Installation
 
-Get yarn if you don’t have it already:
-
-`npm install -g yarn`
+Get [node and npm](https://nodejs.org/en/download/package-manager/) if you don’t have them already.
 
 Install dependencies:
 
-`yarn`
+`npm install`
 
 ### Running the dev server
 
-`yarn dev`
+`npm run dev`
+
+You should then be able to connect useing a browser to *localhost:3000*
 
 ### Building
 
-`yarn export`
+`npm run export`
 
-This will put a static version of the site in `out/`.
+This will put a static version of the site in `out/`. 
+This does not seem to work as the paths get messed up. 
+Since what is being run is `next build` followed by `next export` a solution may or may not be found [here](https://nextjs.org/docs#static-html-export).  
 
-## Future work
-
-* Load initial data from a file, to improve flexibility.
-* Add restricted job title selection and validation.

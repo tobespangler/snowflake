@@ -74,25 +74,25 @@ const emptyState = (): SnowflakeAppState => {
 
 const defaultState = (): SnowflakeAppState => {
   return {
-    name: 'Bob Vila',
+    name: 'Jane Blake',
     title: 'NA',
     milestoneByTrack: {
       'MOBILE': 1,
       'WEB_CLIENT': 2,
-      'FOUNDATIONS': 3,
-      'SERVERS': 2,
-      'PROJECT_MANAGEMENT': 4,
-      'COMMUNICATION': 1,
-      'CRAFT': 1,
-      'INITIATIVE': 4,
+      'FOUNDATIONS': 4,
+      'SERVERS': 4,
+      'PROJECT_MANAGEMENT': 3,
+      'COMMUNICATION': 4,
+      'CRAFT': 3,
+      'INITIATIVE': 5,
       'CAREER_DEVELOPMENT': 3,
       'ORG_DESIGN': 2,
-      'WELLBEING': 0,
-      'ACCOMPLISHMENT': 4,
-      'MENTORSHIP': 2,
-      'EVANGELISM': 2,
-      'RECRUITING': 3,
-      'COMMUNITY': 0
+      'WELLBEING': 3,
+      'ACCOMPLISHMENT': 3,
+      'MENTORSHIP': 3,
+      'EVANGELISM': 1,
+      'RECRUITING': 4,
+      'COMMUNITY': 5
     },
     focusedTrackId: 'MOBILE'
   }

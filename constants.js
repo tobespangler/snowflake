@@ -109,7 +109,6 @@ export const tracks: Tracks = {
       "examples": [
         "Added existing button to a different iOS surface",
         "Add follow button for publications on Android",
-        "Fetched and displayed a new stream, using existing stream item styles",
       ],
     }, {
       "summary": "Develops new instances of existing architecture, or minor improvements to existing architecture",
@@ -119,8 +118,6 @@ export const tracks: Tracks = {
         "Migrates code from old patterns to new patterns",
       ],
       "examples": [
-        "Upgraded SDWebImage to a new major version",
-        "Added support for rendering a new type of stream item",
         "Prototyped a simple new feature quickly",
       ],
     }, {
@@ -132,7 +129,6 @@ export const tracks: Tracks = {
       ],
       "examples": [
         "Designed iOS caching strategy for offline reading",
-        "Built series reader on Android",
         "Informed the team about recent best practice changes and deprecations",
       ],
     }, {
@@ -156,7 +152,6 @@ export const tracks: Tracks = {
       ],
       "examples": [
         "Defined and drove complete migration plan to Swift or Kotlin",
-        "Implemented Android recycler views before platform support existed",
         "Pioneered application-level abstractions for multi-app environment",
       ],
     }],
@@ -174,9 +169,6 @@ export const tracks: Tracks = {
         "Uses CSS appropriately, following style guide",
       ],
       "examples": [
-        "Implemented sticky footer on the post page",
-        "Hooked up the action to dismiss a post from a stream",
-        "Built PaymentHistory screen using ResponseScreen",
       ],
     }, {
       "summary": "Develops new instances of existing architecture, or minor improvements to existing architecture",
@@ -198,9 +190,8 @@ export const tracks: Tracks = {
         "Acts a caretaker for all of web client code",
       ],
       "examples": [
-        "Designed font loading strategy for Company",
-        "Researched utility of service workers for Company",
-        "Designed and implemented ResponseScreen",
+        "Designed font loading strategy for Hootsuite",
+        "Researched utility of service workers for Hootsuite",
       ],
     }, {
       "summary": "Builds complex, reusable architectures that pioneer best practices and enable engineers to work more effectively",
@@ -210,9 +201,6 @@ export const tracks: Tracks = {
         "Makes architectural decisions that eliminate entire classes of bugs",
       ],
       "examples": [
-        "Designed Company's post morpher and delta system",
-        "Implemented Company's scrolling text over image blur",
-        "Designed and pioneered proto-based model storage",
       ],
     }, {
       "summary": "Is an industry-leading expert in web client or sets strategic web client direction for an eng team",
@@ -222,8 +210,6 @@ export const tracks: Tracks = {
         "Defines a long-term vision for web client and ensures projects are in service of it",
       ],
       "examples": [
-        "Invented CSS in JS",
-        "Defined and drove migration strategy to Lite",
         "Implemented unidirectional data flow to completion",
       ],
     }],
@@ -242,8 +228,6 @@ export const tracks: Tracks = {
       ],
       "examples": [
         "Made safe and effective Ansible changes",
-        "Implemented new ETL pipelines based on existing ones",
-        "Resolved out of disk errors independently",
       ],
     }, {
       "summary": "Develops new instances of existing architecture, or minor improvements to existing architecture",
@@ -254,8 +238,6 @@ export const tracks: Tracks = {
       ],
       "examples": [
         "Upgraded NodeJS from 8.0 to 8.1.1",
-        "Built custom packages for RPMs",
-        "Improved ETL efficiency by improving Dynamo to S3 loading",
       ],
     }, {
       "summary": "Designs standalone systems of moderate complexity, or major new features in existing systems",
@@ -266,7 +248,7 @@ export const tracks: Tracks = {
       ],
       "examples": [
         "Designed Ansible configuration management",
-        "Built Company's realtime stats pipeline",
+        "Built Hootsuite's realtime stats pipeline",
         "Designed flexible framework for writing machine learning jobs",
       ],
     }, {
@@ -277,9 +259,7 @@ export const tracks: Tracks = {
         "Introduces new databases and technologies to meet underserved needs",
       ],
       "examples": [
-        "Designed and built BBFD",
         "Designed AWS configuration management",
-        "Introduced Kinesis and pioneered streaming events pipeline",
       ],
     }, {
       "summary": "Is an industry-leading expert in foundational engineering or sets strategic foundational direction for an eng team",
@@ -290,7 +270,7 @@ export const tracks: Tracks = {
       ],
       "examples": [
         "Invented a novel ML technique that advanced the state of the art",
-        "Defined and developed Company's continuous delivery strategy",
+        "Defined and developed Hootsuite's continuous delivery strategy",
         "Developed and implemented HA strategy",
       ],
     }],
@@ -308,9 +288,6 @@ export const tracks: Tracks = {
         "Makes minor server changes to support client needs",
       ],
       "examples": [
-        "Added IFTTT trigger for new bookmark to thingy2",
-        "Added delete audio route to Buggle",
-        "Queried a Dynamo LSI appropriately",
       ],
     }, {
       "summary": "Develops new instances of existing architecture, or minor improvements to existing architecture",
@@ -321,7 +298,6 @@ export const tracks: Tracks = {
       ],
       "examples": [
         "Identified need for new index on Dynamo",
-        "Acted as caretaker for routes protos",
         "Updated Facebook API version and codebase dependencies",
       ],
     }, {
@@ -332,9 +308,7 @@ export const tracks: Tracks = {
         "Writes playbooks for new service maintenance",
       ],
       "examples": [
-        "Implemented Google Auth login to Company",
-        "Implemented payments integration with Stripe",
-        "Built Textshots server",
+        "Implemented Google Auth login to Hootsuite",
       ],
     }, {
       "summary": "Builds complex, reusable architectures that pioneer best practices for other engineers, or multi-system services",
@@ -344,9 +318,7 @@ export const tracks: Tracks = {
         "Makes appropriate buy vs build choices",
       ],
       "examples": [
-        "Designed Company's ranked feed architecture",
         "Designed custom domains architecture",
-        "Created Gotham framework for creating Go services",
       ],
     }, {
       "summary": "Is an industry-leading expert in server side engineering or sets strategic server side direction for an eng team",
@@ -356,8 +328,7 @@ export const tracks: Tracks = {
         "Identifies and solves systemic problems with current architecture",
       ],
       "examples": [
-        "Researched, vetted, and selected Go as Company's statically typed language",
-        "Defined microservices architecture and billing migration plan",
+        "Researched, vetted, and selected Go as Hootsuite's statically typed language",
         "Defined and implemented proprietary IP core to the company's success",
       ],
     }],
@@ -376,7 +347,6 @@ export const tracks: Tracks = {
       ],
       "examples": [
         "Wrote the technical spec for featured post images",
-        "Delivered stream item support for email digests",
         "Delivered payment history dashboard",
       ],
     }, {
@@ -389,7 +359,6 @@ export const tracks: Tracks = {
       "examples": [
         "Delivered promo editor",
         "Delivered audio uploading for web client",
-        "Executed the recommends to claps backfill",
       ],
     }, {
       "summary": "Effectively delivers projects through a small team",
@@ -411,9 +380,9 @@ export const tracks: Tracks = {
         "Leverages recognition of repeated project patterns",
       ],
       "examples": [
-        "Oversaw technical delivery of Hightower",
-        "Managed infrastructure migration to VPC",
-        "Involved marketing, legal, and appropriate functions at project start",
+        "Oversaw technical delivery of Large feature X",
+        "Managed infrastructure migration to Kubernetes",
+        "Involved POD, Security, and appropriate teams at project start",
       ],
     }, {
       "summary": "Manages major company pushes delivered by multiple teams",
@@ -424,7 +393,6 @@ export const tracks: Tracks = {
       ],
       "examples": [
         "Managed technical migration to SOA",
-        "Lead technical delivery of 10/7",
         "Delivered multi-month engineering project on time",
       ],
     }],
@@ -442,7 +410,7 @@ export const tracks: Tracks = {
         "Asks for help at the appropriate juncture",
       ],
       "examples": [
-        "Updated The Watch before running a backfill",
+
         "Updated project status changes in Asana promptly",
         "Gave thoughtful check-in and check-out comments",
       ],
@@ -479,8 +447,8 @@ export const tracks: Tracks = {
       ],
       "examples": [
         "Lead off-site workshop on interviewing",
-        "Wrote Company's growth framework and rationale",
-        "Aligned the entire organization around claps",
+        "Wrote Hootsuites's growth framework and rationale",
+        "Aligned the entire organization around X",
       ],
     }, {
       "summary": "Influences outcomes at the highest level, moves beyond mere broadcasting, and sets best practices for others",
@@ -512,7 +480,7 @@ export const tracks: Tracks = {
       "examples": [
         "Caught a bug on Hatch before it went live",
         "Landed non-trivial PR with no caretaker comments",
-        "Wrote hermetic tests for the happy and sad cases",
+        "Wrote unit tests for the happy and sad cases",
       ],
     }, {
       "summary": "Increases the robustness and reliability of codebases, and devotes time to polishing products and systems",
@@ -524,7 +492,6 @@ export const tracks: Tracks = {
       ],
       "examples": [
         "Requested tests for a PR when acting as reviewer",
-        "Reduced the number of zelda fitzgerald exceptions",
         "Fixed a TODO for someone else in the codebase",
       ],
     }, {
@@ -536,8 +503,8 @@ export const tracks: Tracks = {
         "Customizes system observability",
       ],
       "examples": [
-        "Improved PRB to run the same volume of tests faster",
-        "Simplified hermetic test data modification",
+        "Improved major service to run the same volume of tests faster",
+        "Simplified unit test data modification",
         "Created fixture system for visual quality",
       ],
     }, {
@@ -550,7 +517,7 @@ export const tracks: Tracks = {
       ],
       "examples": [
         "Added code coverage reporting to iOS CI pipeline",
-        "Iterated repeatedly to develop Company's underlines solution",
+        "Iterated repeatedly to develop Hootsuite's X solution",
         "Defined and oversaw plan for closing Heartbleed vulnerability",
       ],
     }, {
@@ -562,9 +529,8 @@ export const tracks: Tracks = {
         "Creating and directing cross team and/or department monitoring policies",
       ],
       "examples": [
-        "Negotiated resources for Fix-It week with exec team",
+        "Negotiated resources for Fix-It Hackathon week with exec team",
         "Instituted and ensured success of a 20% time policy",
-        "Started The Watch",
       ],
     }],
   },
@@ -576,13 +542,11 @@ export const tracks: Tracks = {
     "milestones": [{
       "summary": "Identifies opportunities for organizational change or product improvements",
       "signals": [
-        "Writes Hatch posts about improvement opportunities",
+        "Writes Confluence posts about improvement opportunities",
         "Raises meaningful tensions in tactical meetings",
-        "Asks leadership team probing questions at FAM",
+        "Asks leadership team probing questions at All Hands",
       ],
       "examples": [
-        "Wrote about problems with TTR on Hatch",
-        "Wrote about content policy problems on Hatch",
         "Reported a site issue in Github",
       ],
     }, {
@@ -606,8 +570,7 @@ export const tracks: Tracks = {
       ],
       "examples": [
         "Defined style guide to resolve style arguments",
-        "Proposed and implemented at-mentions prototype",
-        "Implemented video for Android independently, unprompted",
+        "Implemented X for Y independently, unprompted",
       ],
     }, {
       "summary": "Effects change that has a substantial positive impact on the engineering organization or a major product impact",
@@ -617,9 +580,7 @@ export const tracks: Tracks = {
         "Instigates major new features, services, or architectures",
       ],
       "examples": [
-        "Created the interviewing rubric and booklet",
-        "Implemented and secured support for native login",
-        "Migrated Company2 to mono repo and bazel",
+        "Implemented and secured support for single sign-on login",
       ],
     }, {
       "summary": "Effects change that has a substantial positive impact on the whole company",
@@ -629,9 +590,8 @@ export const tracks: Tracks = {
         "Changes complex organizational processes",
       ],
       "examples": [
-        "Migrated the organization from Holacracy",
-        "Built Company Android prototype and convinced execs to fund it",
-        "Convinced leadership and engineering org to move to Company Lite architecture",
+        "Built Hootsuite Android prototype and convinced execs to fund it",
+        "Convinced leadership and engineering org to move Hootsuite to a Micro-Service Architecture",
       ],
     }],
   },
@@ -650,7 +610,6 @@ export const tracks: Tracks = {
       "examples": [
         "Collected and delivered feedback",
         "Discussed career options and areas of interest informally",
-        "Hosted a Floodgate Academy intern",
       ],
     }, {
       "summary": "Formally supports and advocates for one person and provides tools to help them solve career problems",
@@ -662,7 +621,6 @@ export const tracks: Tracks = {
       "examples": [
         "Set up and attended regular, constructive 1:1s",
         "Provided coaching on how to have difficult conversations",
-        "Taught group members the GROW model",
       ],
     }, {
       "summary": "Inspires and retains a small group of people and actively pushes them to stretch themselves",
@@ -696,8 +654,7 @@ export const tracks: Tracks = {
         "Pushes everyone to be as good as they can be, with empathy",
       ],
       "examples": [
-        "Provided coaching to group leads",
-        "Devised Pathwise curriculum for group leads",
+        "Provided coaching to Sr Managers",
         "Advocated to execs for engineer development resources and programs",
       ],
     }],
@@ -715,8 +672,8 @@ export const tracks: Tracks = {
         "Actively participates and makes contributions within organizational processes",
       ],
       "examples": [
-        "Facilitated effective tactical meeting with empathy",
-        "Explained tactical meeting format to a new hire",
+        "Facilitated effective sprint meeting with empathy",
+        "Explained sprint meeting format to a new hire",
         "Provided feedback on sprint planning meeting",
       ],
     }, {
@@ -727,7 +684,6 @@ export const tracks: Tracks = {
         "Advocates for improved diversity and inclusion, and proposes ideas to help",
       ],
       "examples": [
-        "Defined Frankenmeeting structure for small team",
         "Improved Watch on-call rotation scheduling",
         "Defined standard channels for inter-team communication",
       ],
@@ -751,9 +707,7 @@ export const tracks: Tracks = {
         "Ties abstract concerns to concrete organizational actions or norms",
       ],
       "examples": [
-        "Connected mobile recruiting difficulties to focus on excellence",
         "Raised leadership level change discrepancies",
-        "Analyzed the hiring rubric for false negative potential",
       ],
     }, {
       "summary": "Leads initiatives to address issues stemming from hidden dynamics and company norms",
@@ -765,7 +719,6 @@ export const tracks: Tracks = {
       "examples": [
         "Lead efforts to increase number of mobile engineers",
         "Directed resources to meaningfully improve diversity at all levels",
-        "Built the growth framework rubric",
       ],
     }],
   },
@@ -933,28 +886,26 @@ export const tracks: Tracks = {
         "Lead from behind to support someone new to a leadership role",
       ],
     }, {
-      "summary": "Teaches small groups of engineers and contributes to Company's shared knowledge base",
+      "summary": "Teaches small groups of engineers and contributes to Hootsuite's shared knowledge base",
       "signals": [
         "Avoids siloing information when it can be usefully shared with others",
         "Works to increase the bus factor of systems",
         "Finds tools that work best for a team member's personality",
       ],
       "examples": [
-        "Gave a brown bag presentation on payments",
-        "Wrote Hatch post on avoiding RDS backfill issues",
-        "Wrote Company-U content module",
+        "Gave a lunch presentation on payments",
       ],
     }, {
       "summary": "Encourages people to mentor each other, and creates ways for them to do so",
       "signals": [
         "Defines an entire curriculum for a discipline",
         "Draws positive attention to well-modeled mentor and teaching behaviours",
-        "Creates brown bag series and lines up speakers",
+        "Creates lunch series and lines up speakers",
       ],
       "examples": [
-        "Created and lead Company's Women in Eng group",
+        "Created and lead Hootsuite's Women in Eng group",
         "Organized an Eng All Hands with an outside speaker",
-        "Designed and taught web client guild curriculum",
+        "Lead formal mentorship initiative (Owl-2-Owl)"
       ],
     }, {
       "summary": "Instills and promotes a culture of learning and development within the team",
@@ -974,66 +925,65 @@ export const tracks: Tracks = {
   "EVANGELISM": {
     "displayName": "Evangelism",
     "category": "D",
-    "description": "Promotes Company to the outside world and establishes it as an attractive and thoughtful place to work",
+    "description": "Promotes Hootsuite to the outside world and establishes it as an attractive and thoughtful place to work",
     "milestones": [{
-      "summary": "Represents Company well externally, and influences individuals positively",
+      "summary": "Represents Hootsuite well externally, and influences individuals positively",
       "signals": [
         "Shares personal and organizational successes with their network",
-        "Attends Company-hosted events and talks with guests",
+        "Attends Hootsuite-hosted events and talks with guests",
         "Communicates genuine and honest excitement about their work externally",
       ],
       "examples": [
-        "Shared a Company product launch post on Facebook",
+        "Shared a Hootsuite product launch post on Facebook",
         "Acted as a guide for a non-friend visitor to the office",
         "Supported PR efforts by giving a quote or having a photo taken",
       ],
     }, {
       "summary": "Participates more centrally in small events, and takes simple actions that positively influence groups of people",
       "signals": [
-        "Takes meaningful action to introduce people to Company",
-        "Joined public Slack group and represented Company appropriately, and well",
-        "Organizes positive small- or medium-sized events that bring people to Company",
+        "Takes meaningful action to introduce people to Hootsuite",
+        "Joined public Slack group and represented Hootsuite appropriately, and well",
+        "Organizes positive small- or medium-sized events that bring people to Hootsuite",
       ],
       "examples": [
         "Volunteered as a helper for CODE2040 writing workshop",
         "Organized a short tour of the office by college students",
-        "Talked at a Women Who Code event hosted at Company",
+        "Talked at a Women Who Code event hosted at Hootsuite",
       ],
     }, {
-      "summary": "Works hard to positively influence large groups of people on their views of Company",
+      "summary": "Works hard to positively influence large groups of people on their views of Hootsuite",
       "signals": [
         "Mentors or participates in a high visibility way in an external organization",
         "Builds fruitful partnerships with external organizations",
-        "Writes blog posts about Company that receive moderate traffic",
+        "Writes blog posts about Hootsuite that receive moderate traffic",
       ],
       "examples": [
-        "Represented Company on a panel at a conference of industry experts",
+        "Represented Hootsuite on a panel at a conference of industry experts",
         "Established close ties with Creative Commons",
         "Built a durable, long-standing relationship with Code2040",
       ],
     }, {
-      "summary": "Establishes Company as an great, innovative company and workplace to the whole industry",
+      "summary": "Establishes Hootsuite as an great, innovative company and workplace to the whole industry",
       "signals": [
         "Establishes themself as an industry thought leader who attracts talent",
-        "Publishes material about Company's organizational or technical innovations",
-        "Leverages significant following to evangelise Company",
+        "Publishes material about Hootsuite's organizational or technical innovations",
+        "Leverages significant following to evangelise Hootsuite",
       ],
       "examples": [
-        "Published a paper on Company technology in a peer-reviewed journal",
-        "Authored joint-press release with EFF on DNT",
-        "Published “Why Content Editable Is Terrible” on the Company engineering blog",
+        "Published a paper on Hootsuite technology in a peer-reviewed journal",
+        "Authored joint-press release with Hootsuite and LinkedIn",
       ],
     }, {
-      "summary": "Introduces Company in a positive light to a wider audience outside the industry",
+      "summary": "Introduces Hootsuite in a positive light to a wider audience outside the industry",
       "signals": [
         "Delivers key messages to broad, mainstream audiences",
-        "Influences people with large audiences to talk about Company positively",
-        "Drives recognition and adoption of Company in significant numbers",
+        "Influences people with large audiences to talk about Hootsuite positively",
+        "Drives recognition and adoption of Hootsuite in significant numbers",
       ],
       "examples": [
         "Published or interviewed in a mainstream newspaper or website outside tech",
         "Keynoted a conference with international attention",
-        "Represented Company in national televised media",
+        "Represented Hootsuite in national televised media",
       ],
     }],
   },
@@ -1041,9 +991,9 @@ export const tracks: Tracks = {
   "RECRUITING": {
     "displayName": "Recruiting",
     "category": "D",
-    "description": "Strengthens Company's team by bringing in excellent staff members",
+    "description": "Strengthens Hootsuite's team by bringing in excellent staff members",
     "milestones": [{
-      "summary": "Brings new candidates into the pipeline and understands how to evaluate candidates at Company",
+      "summary": "Brings new candidates into the pipeline and understands how to evaluate candidates at Hootsuite",
       "signals": [
         "Reviews existing network for hiring leads regularly",
         "Shadows interviews to gain familiarity with process",
@@ -1063,7 +1013,7 @@ export const tracks: Tracks = {
       ],
       "examples": [
         "Added observable evidence for every rating",
-        "Started a monthly brunch for candidates to meet Company employees",
+        "Started a monthly brunch for candidates to meet Hootsuite employees",
         "Tested a new service for quality and diversity of candidates",
       ],
     }, {
@@ -1087,7 +1037,7 @@ export const tracks: Tracks = {
       ],
       "examples": [
         "Planned engineering summit on interview process and training",
-        "Organized and lead Company's presence at a recruitment fair",
+        "Organized and lead Hootsuite's presence at a recruitment fair",
         "Started CODE2040 internship program",
       ],
     }, {
@@ -1119,7 +1069,7 @@ export const tracks: Tracks = {
       "examples": [
         "Joined and actively participated in the web client guild",
         "Brought a small gift back from vacation for the team",
-        "Wrote entertaining and informative Prod Ops writeups on Hatch",
+        "Wrote entertaining and informative Prod Ops writeups on Workplace",
       ],
     }, {
       "summary": "Steps up, builds connectedness, and takes concrete actions to promote an inclusive culture",
@@ -1154,18 +1104,17 @@ export const tracks: Tracks = {
       ],
       "examples": [
         "Devoted large amount of time to helping outside direct responsibilities",
-        "Refactored hundreds of legacy Shepherd nodes",
-        "Acted as sole maintainer of Boxen for years",
+        "Refactored hundreds of legacy Service nodes"
       ],
     }, {
       "summary": "Lives the company values, guards positive culture, and defines policies that support relatedness between teams",
       "signals": [
         "Brings separate teams together to build relatedness",
-        "Holds individuals, teams, and leadership accountable to Company's values",
+        "Holds individuals, teams, and leadership accountable to Hootsuite's values",
         "Sets the tone, policy, and goals around maintaining an inclusive company",
       ],
       "examples": [
-        "Organized wine and olive tasting offsite to Napa for the whole engineering org",
+        "Organized wine tasting offsite to Penticton for the whole engineering org",
         "Devised, delivered and acted on findings from an engineer happiness survey",
         "Challenged and corrected exclusionary behaviour or policies",
       ],
